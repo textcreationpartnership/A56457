@@ -1,0 +1,393 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Seasonable counsel to an afflicted people in a letter to the distressed inhabitants of Wem in the county of Salop, after the dreadful fire, which consumed that market-town, March 3. 1676/7. Written by Andrew Parsons, M.A. and sometime minister there.</title>
+            <author>Parsons, Andrew, 1615 or 16-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 26 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56457</idno>
+            <idno type="STC">Wing P559D</idno>
+            <idno type="STC">ESTC R220462</idno>
+            <idno type="EEBO-CITATION">99831862</idno>
+            <idno type="PROQUEST">99831862</idno>
+            <idno type="VID">36329</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56457)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36329)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2129:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Seasonable counsel to an afflicted people in a letter to the distressed inhabitants of Wem in the county of Salop, after the dreadful fire, which consumed that market-town, March 3. 1676/7. Written by Andrew Parsons, M.A. and sometime minister there.</title>
+                  <author>Parsons, Andrew, 1615 or 16-1684.</author>
+               </titleStmt>
+               <extent>[2], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for E. Brewster, and Tho. Parkhurst, at the Crane in St. Pauls Church-yard, and at the Bible and three Crowns in Cheapside near Mercers-Chappel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Errata at foot of p. 40.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fires --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36329:1" rendition="simple:additions"/>
+            <p>
+               <hi>Seaſonable Counſel</hi> TO <hi>An Afflicted People:</hi> IN A LETTER To the Diſtreſſed INHABITANTS OF WEM In the County of SALOP, After the dreadful FIRE, which conſumed that Market-Town, <hi>March</hi> 3. 1676/7.</p>
+            <p>Written by <hi>Andrew Parſons,</hi> M.A. and ſometime Miniſter there.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>E. Brewſter,</hi> and <hi>Tho. Parkhurſt,</hi> at the <hi>Crane</hi> in St. <hi>Pauls Church-yard,</hi> and at the <hi>Bible</hi> and three <hi>Crowns</hi> in <hi>Cheapſide</hi> near <hi>Mercers-Chappel,</hi> 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:36329:2" rendition="simple:additions"/>
+            <pb facs="tcp:36329:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:36329:3"/>
+            <pb n="1" facs="tcp:36329:3"/>
+            <head>To my dear Friends of <hi>Wem,</hi> who have ſuffered by the late dreadful Fire.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eloved people, when I firſt heard of that de<g ref="char:EOLhyphen"/>vouring Fire, how could I be otherwiſe affected than <hi>Nehemiah</hi> was, <hi>Chap.</hi> 1.4, when he heard <hi>Jeruſalem</hi> lay waſte and burnt? He was aſtoniſhed, wept and prayed to the God of Heaven. And oh that my prayers may be as effectual and ſucceſsful for you, as his were for them; then <hi>Wem</hi> would be built again, as <hi>Jeruſalem</hi> was; the glory of whoſe ſecond Temple exceeded that of the firſt, as did alſo their own Houſes and habitations, <hi>Hag.</hi> 1.4.</p>
+            <p>But is <hi>Wem</hi> burnt indeed? What, <hi>Wem!</hi> the place that God hath bleſſed, and where he hath as ſignally manifeſted his
+<pb n="2" facs="tcp:36329:4"/> power, goodneſs, forbearance, and mer<g ref="char:EOLhyphen"/>cy, as in any place you or I ever knew? And is this lot and fate at laſt befallen <hi>Wem?</hi> What! to come down ſo wonder<g ref="char:EOLhyphen"/>fully! and in a little more than an hour, for her beauty to be turn'd into Aſhes! Sure this Fire (who ever kindled it here) like that of <hi>Sodom</hi> came down from the Lord out of Heaven, it was ſo fierce and unquenchable.</p>
+            <p>Therefore if other great and ſtupen<g ref="char:EOLhyphen"/>dious providences have paſſed as unre<g ref="char:EOLhyphen"/>garded by us, this muſt not, if we mean to prevent the flaming vengeance of God, next upon our ſelves. O <hi>Wem,</hi> thou waſt a Town ſaved by the Lord from Peſtilence, when (you do remem<g ref="char:EOLhyphen"/>ber) God ſhot his Arrow in <hi>Shrewsbury</hi> on one hand, and <hi>Whitchurch</hi> on the o<g ref="char:EOLhyphen"/>ther; but the impreſſion of this quickly wore off, and yet the long-ſuffering of God ſtill waited, (the holy and righte<g ref="char:EOLhyphen"/>ous God is ſlow to wrath) and he was long a coming to <hi>Wem,</hi> expecting ſtill his Goſpel preached there might find bet<g ref="char:EOLhyphen"/>ter acceptance, and prevail more to the amendment of their lives. In the mean
+<pb n="3" facs="tcp:36329:4"/> time he viſited other places, and uttered his voyce in dreadful flames in <hi>Drayton,</hi> the ſound whereof, had it not been for a general and moral deafneſs, would have been ſhrill in your ears; crying, <hi>Wem,</hi> look upon <hi>Drayton,</hi> and learn to be wiſe in time; in this thy day, know the things that belong to thy peace and ſafety. God called, but <hi>Wem</hi> would not anſwer; yet ſtill Gods bowels wrought ſtrongly towards <hi>Wem</hi> (as of old toward <hi>Ephraim</hi>) how ſhall I give thee unto the flames? Make thee as <hi>Admah (Hoſ.</hi> 11.8.)? I'le practiſe in like manner upon another place alſo; it may be then they will hear and fear, and do no more wickedly; ſo a Fire, and that a dreadful one was in <hi>Newport:</hi> Now God ſaid as in <hi>Zeph.</hi> 3.7, Surely they will fear me in <hi>Wem,</hi> and break off their ſins which are greater, ſome circumſtances conſidered; ſo ini<g ref="char:EOLhyphen"/>quity ſhould not be their ruine: But behold, no returning yet, ſuch as God looked for; and though divine Juſtice cryed, <hi>Wem</hi> is incorrigible, let it utter<g ref="char:EOLhyphen"/>ly periſh; yet mercy triumphs further over juſtice: No, ſaith God, I will not
+<pb n="4" facs="tcp:36329:5"/> deſtroy it utterly yet, as I did <hi>Sodom:</hi> there are righteous in it, who though they be ſleepy, yet the firing of one little houſe, [this happened <hi>March</hi> 76.] almoſt out of harms way, may awaken them, if others would not hear; being come home to them to contend like<g ref="char:EOLhyphen"/>wiſe by Fire, this might well be recei<g ref="char:EOLhyphen"/>ved as a ſtrong Alarm at the Gate. But at this time God repented, and therefore <hi>Wem</hi> repented not: yet after all this, [Five Months after,] God would Fire one Beacon more in the higheſt place, in the heart of the Town; and if he muſt be put to quench it himſelf with the Clouds, becauſe they did it not with their Tears, the next ſhall be an unquenchable Fire: [which was <hi>March</hi> 3. —76.] I would not have made mention of thoſe neighbour Towns upon whom the hand of the Lord was heavy; but that I feared, then I ſhould loſe my chief deſign, which is to advance the infinite riches of Gods forbearance, to aggravate your ſin, and to make way the better for your deeper humiliation and repen<g ref="char:EOLhyphen"/>tance; but eſpecially, though your hou<g ref="char:EOLhyphen"/>ſes
+<pb n="5" facs="tcp:36329:5"/> be in Aſhes, that you might put your mouths in the duſt, and juſtifie God in all his righteous proceedings againſt you: that you may have nothing to ſay againſt God, but to turn your com<g ref="char:EOLhyphen"/>plaints againſt your ſelves, as the People of God in like caſes always have done. And if this was the effect, at preſent, of this dreadful ſtroke, I hope you will experience another hereafter, which is to do you good in the latter end.</p>
+            <p>Of two evils God would chuſe the leaſt for you; he would burn yours, but not you: he knew that <hi>Tophet</hi> would be a worſe place for burning, than <hi>Tabora, Numb.</hi> 11. If a people were ſet upon ſin, ſo that there was no ſaving them but by Fire, if they were not burnt, they might be damn'd; if their houſes were not deſo<g ref="char:EOLhyphen"/>late, their ſalvation was endangered; if they would not ſo carefully look for a Houſe in Heaven, ſo long as they had where to lay their heads here on earth, he muſt cure by burning. And my dear Friends, you are not the firſt that God practiſed this way upon; his own People the Jews were conſumed by
+<pb n="6" facs="tcp:36329:6"/> Fire and other horrible judgments; at laſt ſent packing away to <hi>Babylon</hi> (your ſuffering not the one half of theirs) and yet all was for their good, <hi>Jer.</hi> 24.5. And therefore my dear Friends, give me leave to tell you, that now under this ſtupendious providence, is your day. Now is your critical time for ma<g ref="char:EOLhyphen"/>king or marring, for Body and Soul: hear, and your Souls ſhall live; repent, and your Town ſhall be built, and you, and not others ſhall inhabit it.</p>
+            <p>No Conſcience can be ſo ſtupid, but muſt conclude that as this dreadful ſtroak, by all circumſtances, was from an angry God in Heaven; ſo from thence it brings this errand, <hi>Now or never repent; you did burn lately, you muſt turn preſently.</hi> I tell you, this Providence admits no delay; you muſt ſin no more, leſt a worſe fire come, or you come to a worſe fire. God ſays to you, as well as to his People burnt out of old, <hi>Conſider your ways, Hag.</hi> 1.5. O would to God you were (my dear friends) ſo come to your ſelves, as the Prodigal was, to run and cry, Father, we have ſinned againſt Heaven,
+<pb n="7" facs="tcp:36329:6"/> elſe the Heavens would not ſo furiouſly have blown the flames that did con<g ref="char:EOLhyphen"/>ſume us. [The Town conſumed in little more than an hour!] O that the People of <hi>Wem</hi> were like the men of <hi>Iſſachar,</hi> who underſtood the times, and knew what they ought to do. Then I would comfort you who have loſt your Hou<g ref="char:EOLhyphen"/>ſes, you ſhould inſtantly have a Houſe without hands, made ſure to you in Heaven for ever. Would not that be a bonefire indeed that conſumed your luſts (that ye might be meet to dwell in that brave Houſe) though it burnt your earthly tabernacles together? That wind did blow you good indeed, if the Spi<g ref="char:EOLhyphen"/>rit of God was in it, conſuming, the while, your ſins, and purifying your Souls; were your Houſes built to day, and burned again to morrow, you might afford to bear it, if Chriſts Fa<g ref="char:EOLhyphen"/>thers Houſe in Heaven, by the Spirit of adoption, be ſealed ſecurely unto you; which then it would be.</p>
+            <p>Now my Brethren, having this houſe I have been ſpeaking of, in hope, if you do repent, which this preſent Providence
+<pb n="8" facs="tcp:36329:7"/> crys and calls aloud to you to do (if it had been done ſooner, your houſes might have ſtood; if it be not done now, your houſes may never be re-built; if they be, you may not live to dwell in them: and where ſhall ye dwell then? Oh the houſes in Hell are woful houſes): will you without delay obey this voice? Oh that while I am writing, I could be aſſured you are repenting, that ſome good man or other would come to me with good tidings: The people of <hi>Wem</hi> are much changed and refined by the Fire; there are like to be more new crea<g ref="char:EOLhyphen"/>tures among the poorer ſort, than new cottages: the Church is burnt, yet the people paſſionately ſay, <hi>Come let us go up to the mountain of the Lord, to the houſe of the God of Jacob, weeping as they go.</hi> I will not deſpair, I hope God will hear prayers, and give you repentance unto life.</p>
+            <p>After Gods voice, I beſeech you, by the mercies of God, let the voice of his, and ſometime your unworthy Miniſter be heard; repent and amend your lives. I need not go to particulars to preſs this repen<g ref="char:EOLhyphen"/>tance; the ſad Providence of God hath
+<pb n="9" facs="tcp:36329:7"/> wrought ſo, I hope, as to ſave me this la<g ref="char:EOLhyphen"/>bour, and brought your ſins freſh to your remembrance. Though I cannot, yet ſure God doth hear your own Conſciences peaching you, <hi>viz.</hi> Ah, this is for my going prayerleſs to bed: if our houſes had been Churches, and we ſpiritual Prieſts to offer morning and evening Sacrifices un<g ref="char:EOLhyphen"/>to God, of broken and contrite hearts, this would, this might never have been; but I did riſe early, and made more haſte than good ſpeed out of my own houſe, that I might be in the Ale-houſe; riſe early to follow ſtrong drink, (follow it indeed, when I ſtand at it the whole day); I came thither a man, but I went thence a brute. Shall I mention burn<g ref="char:EOLhyphen"/>ing my houſe? 'tis the infinite mercy of God I my ſelf am not burning in Hell: Yonder, yonder ſtood the houſe where I conſumed ſo much precious time; where I ſpent moſt of that which coſt me ſo much ſweat and labour, where I was drinking and debauching my ſelf while my family at home wept and ſighed for want of bread, or ſomething elſe.</p>
+            <p>This fire was for our profanation of
+<pb n="10" facs="tcp:36329:8"/> the Sabbath, a Judgment particularly threatned for this ſin, <hi>Jer.</hi> 17.27. God threatneth, <hi>Zach.</hi> 5.4. to burn houſes for ſwearing and forſwearing; and was it not a wonder of mercy my houſe ſtood ſo long! O, the Scripture ſure is the Word of God; I'le go no farther, than the fulfilling of it, for a proof.</p>
+            <p>O my folly, my folly, ſaith this, and twenty men more, whoſe hearts ran after their covetouſneſs. I have cared, and laboured, plotted, and contrived with all my might a whole age, for that which thieves might have ſtolen, which fire hath utterly conſumed in one hour: How ſhall I anſwer God, who gave me ſo long time, ſince I have nothing left now, to ſhew what I did all this while: I have little knowledg of the things of God to ſhew: I have few good works to ſhew: I was a true lover of the Mam<g ref="char:EOLhyphen"/>mon of unrighteouſneſs, it was in my heart; ſo that I was an Idolater, and ſa<g ref="char:EOLhyphen"/>cralegious perſon all that while. What, have I employed a ſoul, a precious and immortal Being, about things, that it could never have content in? And
+<pb n="11" facs="tcp:36329:8"/> are theſe now gone in an hours time? Look yonder, all that I laboured for, and loved above my ſoul, is now ſome carts full of rubbiſh, and a few handfuls of aſhes. I have ſpent my time well, that am now level'd with the poor man, that could arrive to no more than to ſee a little meat in his cubbard! My Hea<g ref="char:EOLhyphen"/>ven hath took Wings, and fled from me; and what a Heaven now ſhall I have! Lord ſhew me my folly, or I am undone. The Houſe of God is burnt, ſaith another: And now if God ſhould reckon with me for all the ſins I have been guilty of there; What a fire did I deſerve to feel? Here ſtood my ſeat where I ſlept ſo much: while I waked, my ears were ſtopt, becauſe my mind was deviſing evil devices, and was prejudiced againſt the Preacher and his Doctrine both, eſpecially the Application.</p>
+            <p>I do now wonder, and wonder a<g ref="char:EOLhyphen"/>gain at my ſelf, that while I heard there the glad tidings of the Goſpel ſounding in my ears, I ſhould be no more affected than the pillar I leaned unto. There I was invited to the marriage-ſupper; yea,
+<pb n="12" facs="tcp:36329:9"/> I was promiſed in caſe I would conſent, my Maker would be my husband, and if I would be for him, he would be for me, <hi>Matth.</hi> 18. But I made light of it, and diſdainfully ſaid, I pray have me ex<g ref="char:EOLhyphen"/>cuſed; though that while, I had no other ſutors than the Devil, the World, and the Fleſh, whoſe motions I embraced, though my early vow in baptiſm en<g ref="char:EOLhyphen"/>joyned me by the Command of God up<g ref="char:EOLhyphen"/>on greateſt penalties, to forſake them all.</p>
+            <p>There, we call to remembrance, the Miniſter cited and applied the words of <hi>Moſes</hi> to the two Tribes and half, <hi>Numb.</hi> 32.22, <hi>Behold you have ſinned against the Lord, and be ſure your ſin will find you out.</hi>
+            </p>
+            <p>We were told there, over and over, that we had God to ſerve, ſouls to ſave, death to pay, an account to give, a ſen<g ref="char:EOLhyphen"/>tence to receive, and eternity to live in. But theſe things did not move us, ſo as to ſtop our running to all exceſs, and committing iniquity with greedineſs; as if we could not ſoon enough provide fuel, not only for this fire which hath
+<pb n="13" facs="tcp:36329:9"/> conſumed us, but for a worſe, which, if God be not infinitely gracious to us through Jeſus Chriſt, will be conſu<g ref="char:EOLhyphen"/>ming of us for ever.</p>
+            <p>And now methinks, I hear you ſigh and cry: Men of God help us, what ſhall we do? The wrath of the Lord is gone forth, the fire of his indignation hath begun upon our houſes: what muſt be done to quench it, that it might not reach our ſouls, that we may not ſuf<g ref="char:EOLhyphen"/>fer the vengance of eternal fire?</p>
+            <p>Chriſts Counſel to the impotent man, <hi>John</hi> 5.14, <hi>Sin no more, leſt a worſe thing come unto thee,</hi> is proper and ſeaſonable for me and you. My friends, come let us return unto the Lord, for he hath torn us, and he will bind us up; he hath burnt you, and he will then build you up: Knowing the terror of the Lord, ſure this Exhortation will ob<g ref="char:EOLhyphen"/>tain, <hi>Burnt children will dread the fire:</hi> O tell thy luſts that have been as dear as thy right hand and eye unto thee, I'le be revenged. This month you have made me lye down in ſorrow, and if you live, I am ſure you will make me
+<pb n="14" facs="tcp:36329:10"/> dye, and live in ſorrow for ever. I have ſeen and felt, and therefore dread the terrible God, who taketh vengeance on thoſe that will go on in ſin, though this voice by Word and Rod cry never ſo loud: <hi>Wherefore I abhor my ſelf in duſt and aſhes, I will forſake my ſins.</hi> This, this is that, my friends, you muſt do, or elſe you will be undone worſe, a ſecond time; at death you will be ut<g ref="char:EOLhyphen"/>terly undone. It is not enough to go up and down in the Ruines, looking wiſtly, ſighing deeply, and ſaying, Alas! alas! ſo the friends of that myſtical <hi>Sodom</hi> and <hi>Babylon</hi> ſhall do, <hi>Revel.</hi> 18.10. But you muſt ſay, By the grace of God, and in the ſtrength of Jeſus Chriſt, we will a<g ref="char:EOLhyphen"/>mend our lives for time to come; 'tis time, 'tis high time: we have received the firſt, but we will take heed of the worſt fruits of ſin. We will never love that more, which hath done more hurt in one hour, than it did us good all the days of our life. Strong drink will burn: the colour of it in the glaſs ſhall tempt me no more: A Chriſtian beaſt will be a Monſter in my account for ever: And
+<pb n="15" facs="tcp:36329:10"/> therefore I will never put my bottle more to my Neighbour, to make him drunken, no never, after God hath put ſuch a cup of his fury into my hands, and made me drink up the dregs there<g ref="char:EOLhyphen"/>of (Oh that God would ſay as <hi>Iſa.</hi> 51.22, thou ſhalt no more drink it again); I did ſwear and blaſpheme, and my tongue was ſet on Fire of Hell: 'Tis true, I was the more emboldned through the weakneſs of the Law, wanting execu<g ref="char:EOLhyphen"/>tion; but God hath now required the penalty, and by his grace I'le forfeit no more, his Law is holy, juſt, and true; <hi>He will not hold him guiltleſs that taketh his name in vain.</hi> If God ſhould ſay, the next Oath thou ſweareſt, I'le burn thy houſe; I hope notwithſtanding my houſe ſhould ſtand for my poſterity after me to dwell in. I am of another mind now; I ſhall never more think that they who will wickedly and commonly ſwear, can ſerve God with reverence and godly fear: If God will hear my prayers, and grant me his grace, I'le have other imployment for my tongue for time to come; I'le pray, and out of
+<pb n="16" facs="tcp:36329:11"/> my mouth ſhall proceed bleſſing; bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I will curſe and ſwear no more. It i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid one fire will fetch out another poor man! who haſt broken the third Commandment, may be more than a hundred times a day, How happy wouldeſt thou be, if God ſhould make the firing of thy houſe a remedy to fetch the fire of Hell out of thy tongue<g ref="char:punc">▪</g> O, I will boldly come into thy company for time to come, when I ſhall be ſure not to hear the language of Hell. When I ſhall comfortably converſe with a man, a Chriſtian, and not with a Devil incar<g ref="char:EOLhyphen"/>nate.</p>
+            <p>My friends, my friends, theſe are hea<g ref="char:EOLhyphen"/>venly reſolves, to drink and ſwear, and ſin no more. I pray God that theſe thing<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thou bindeſt thy ſelf to, may be bound in Heaven, for your help herein ſtand<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the name of the Lord; through him alone, who muſt ſtrengthen you, you can do theſe and all things.</p>
+            <p>Were I among you, ſince this awaken<g ref="char:EOLhyphen"/>ing Providence, I am perſwaded I ſhould have much ſuch like work as <hi>John</hi> the Baptiſt had (if I was able to do it), e<g ref="char:EOLhyphen"/>very
+<pb n="17" facs="tcp:36329:11"/> one ran unto him, after he had preached cuttingly, <hi>Luk.</hi> 3.9, ſaying, <hi>Every tree that bringeth not forth good fruit, ſhall be cut down and caſt into the fire:</hi> His Ax was ſo keen, that it divi<g ref="char:EOLhyphen"/>ded between the marrow and the joynts, and made them cry out, what ſhall we do then? Publicans and Soldiers, yea, all ſorts came with their ſores. <hi>John</hi> tells them what muſt be done, but to be ſure he refers them farther, to one that came after him, yet was before him, who had the Balm that never failed; and ſhed wherewith to make a playſter, that would never fall off without effect<g ref="char:EOLhyphen"/>ing the cure: So after this loud preach<g ref="char:EOLhyphen"/>ing of God in flaming fire, many of your Conſciences are ſcorched: Here ſay you, was a fire indeed, which put us in mind to purpoſe of the fire of Hell; great were our frights, and fears, by that; but to tell you the truth, we are afraid of our ſouls, if they ſhould burn alſo, that would be worſe than the burning of the whole world, becauſe our ſouls are better than the world. It is true, we are convinced, and our ſins do
+<pb n="18" facs="tcp:36329:12"/> trouble us, but the fire is not out, for our pain and anguiſh ſtill continues; What ſhall we do?</p>
+            <p>Truly I ſhould be glad of ſuch com<g ref="char:EOLhyphen"/>pany, and ſuch complaints too; ſure this work pleaſed <hi>John;</hi> and ſo Miniſters of Chriſt work gladly all days of their lives, and have joy in hope, that this greateſt recreation will be at the end of their work alſo: as it was at the end of <hi>John</hi>'s preaching in the place before mentioned.</p>
+            <p>But are you ſcorch'd indeed? doth the ſore of your ſin, ſince the Fire, run eſpecially in the night? that you weep, when ye uſed to ſleep? Are you truly troubled with the greatneſs and number of your ſins, which the light of this Fire, through the grace of God, hath made diſcovery of? O then come away, make haſte, linger not; the Goſpel is an Hoſ<g ref="char:EOLhyphen"/>pital (the great <hi>Rabbi</hi> and Maſter of it calleth thee) where all ſort of ſuch may<g ref="char:EOLhyphen"/>med ones have lain: The door is open day and night for all ſuch, the worſt have been cured without money, and without price: Thy caſe thou ſayſt is
+<pb n="19" facs="tcp:36329:12"/> ſad: thy caſe I ſay is not deſperate: I would not venture my ſoul raſhly for a world; but I would pawn it this once, if thou be truly penitent, and canſt look unto Jeſus, and haſt faith to ſay as <hi>Mary</hi> and <hi>Thomas</hi> did, <hi>Rabboni, My Lord, and my God; Though thy ſins were as ſcar<g ref="char:EOLhyphen"/>let, they ſhall be as white as ſnow.</hi> Chriſt bids thee look unto him, and be ſaved: as ſure as they that were ſtung with the fiery Serpents, when they looked upon the brazen Serpent, were healed, <hi>Numb.</hi> 21.9. So thou that look<g ref="char:EOLhyphen"/>eſt with a mournful, craving, ſteady, and believing eye, on Chriſt, the truth of that which was his type, thou ſhalt as cer<g ref="char:EOLhyphen"/>tainly be ſaved. But then as they that were ſtung, did beware of the veno<g ref="char:EOLhyphen"/>mous teeth of the fiery Serpents ever after; So when thou art made whole, thou muſt ſin no more, watch and pray continually, that thou enter not into temptation. I ſay, watch and pray, this counſel was never ſo ſeaſonable as now. Satan knows Gods expectations from you, now after this ſweeping Judgment, are high; he knows if ſuch
+<pb n="20" facs="tcp:36329:13"/> opportunities of breaking the league with ſin, and making peace with God, be loſt, nothing more kindles the wrath of God, to leave you for ever, that you may dye in your ſins: this may make him ſwear in his wrath, I would have puri<g ref="char:EOLhyphen"/>fied thee: I hearkned, and heard, this Sabbath, and that Sermon, by former and latter calamities; when ſhall it once be? never, if not after this fire. They ſhall be ſmitten no more; they ſhall be a<g ref="char:EOLhyphen"/>wakened no more; ſleep on now; but this know, your damnation ſleepeth not. I called far and near; lowder, and low<g ref="char:EOLhyphen"/>der; all to no purpoſe. I'le hold my peace till the day I ſay, <hi>Go ye curſed into everlaſting fire.</hi>
+            </p>
+            <p>I hope, my dearly beloved Friends, you will take the courſe before pre<g ref="char:EOLhyphen"/>ſcribed, to prevent this ſentence, and to eſcape that puniſhment; but if not, know aſſurely the fire of <hi>Wem</hi> was purpoſely to make the fire of Hell hotter than elſe it would have been. Can you bear with my uſing this ſharpneſs? will ye indeed bear with me? I uſe it, becauſe of my hearts deſire unto God, that you
+<pb n="21" facs="tcp:36329:13"/> may be ſaved. I love you, therefore you will bear with me; and therefore I warn you, ſaying, Miſs the wiſe im<g ref="char:EOLhyphen"/>proving of this hour of fire, this firy try<g ref="char:EOLhyphen"/>al, and it may be as much as your im<g ref="char:EOLhyphen"/>mortal ſouls are worth.</p>
+            <p>Good ſirs, good ſirs, Do not return to folly again, leſt Satan ſhould beguile you of this golden opportunity, to work out your ſalvation with fear and trembling. O ſhould I hear or ſee, that <hi>Wem,</hi> which hath been a boyling-pot over ſo fierce a fire, yet ſtill doth retain her ſcum to mix and ſettle again; I ſhould cry out, beware, there is death in the pot: Should I live again among you, though I ſhould ſee goodlier houſes, yet I would lye in aſhes, if thoſe that owned them did not more own Religion, and the good ways of God, than for ſome years before the fire they have done; if they did not return from their ſins to the Lord, after they had ſo fallen by their iniquity. In the mean time, <hi>God forbid that I ſhould ſin againſt the Lord in ceaſing to pray for you,</hi> (till God open a door, that I might <hi>teach you the good and the right
+<pb n="22" facs="tcp:36329:14"/> way</hi>) 1 <hi>Sam.</hi> 12.23, that the greateſt ſenſe of this diſmal Fire may continue upon you, leſt you come under the ſame condemnation with them, <hi>Pſal.</hi> 28.5, <hi>They regard not the works of the Lord, nor the operation of his hands, there<g ref="char:EOLhyphen"/>fore we will deſtroy them.</hi> I need not tell you again, there is a worſe Fire yet; the Fire that burns ſouls, is a thouſand times worſe than yours; yea, than that which muſt burn the World.</p>
+            <p>Let your fire put you in mind of that: Did you run to and fro in the ſtreets, while the flame did fly as faſt on the top of your houſes, ſighing, ſobbing, and at laſt ſwooning? What Town ſo miſerable as ours, for behold in one hour we are poor, and miſerable, and naked? Was there at once a common ſcreeking-cry? O my houſe is burnt, the cruel flames are eating quite up my habitati<g ref="char:EOLhyphen"/>on: All is gone, ſaith another; I am as poor as <hi>Job,</hi> ſaith a third; all undone, all undone. What a dreadful time and cry will that be then, when the whole world ſhall be burnt up? O what weeping, and wailing, and gnaſhing of teeth will there
+<pb n="23" facs="tcp:36329:14"/> be then, when the Lord ſhall come from Heaven in flaming fire, and render ven<g ref="char:EOLhyphen"/>geance to them that know him not, and obey not the Goſpel of his Son; burning the World firſt, and then the Throne for Judgment ſhall be ſet (God knows where), that the wicked and unbeliev<g ref="char:EOLhyphen"/>ing inhabitants of all the earth, may be doomed and burnt with everlaſting fire? Yours was a ſad cry; at the general con<g ref="char:EOLhyphen"/>flagration it will be ſadder; but the ſad<g ref="char:EOLhyphen"/>deſt, loudeſt and killing ſcreek of all, will be at the pronouncing upon Reprobates that dreadful ſentence, <hi>Go ye curſed into everlaſting fire, prepared for the devil and his angels.</hi>
+            </p>
+            <p>I hope alſo by this Fire, you will be convinced as the people were, 1 <hi>Kings</hi> 18.38, 39. <hi>When the fire of the Lord fell, and conſumed the ſacrifice, with the wood, the ſtones, and the duſt;</hi> took all, as yours did: <hi>They fell upon their faces, and ſaid. The Lord, he is the God; the Lord, he is the God.</hi> So ſay you, verily there is a God that judgeth in the earth, that is long-ſuffering, but not ever ſuf<g ref="char:EOLhyphen"/>fering; who, if he be not ſanctified by
+<pb n="24" facs="tcp:36329:15"/> a people, will ſanctifie himſelf upon that people. God will come and right him<g ref="char:EOLhyphen"/>ſelf: although he may be ſlow, yet he will be ſure; you have often heard by the hearing of the ear, that there is a great and terrible God; now your eye have ſeen, Oh fall down and kneel before everlaſting burnings, and a conſuming fire; the Lord of hoſts, who hath all creatures of his Army to fight againſt them, that fight againſt him, will over<g ref="char:EOLhyphen"/>come when he judgeth. Fire and Wa<g ref="char:EOLhyphen"/>ter, Flies and Frogs, Men or Angels, good or bad, what Regiments he plea<g ref="char:EOLhyphen"/>ſeth to Muſter and Commiſſion, muſt and ſhall accompliſh that whereto he ſend them. If God ſaid to thoſe Male-con<g ref="char:EOLhyphen"/>tents, <hi>Numb.</hi> 12.8, <hi>Were ye not afraid to ſpeak againſt my ſervant Moſes?</hi> one i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commiſſion under him: Well then muſt you be afraid to ſin proudly and pre<g ref="char:EOLhyphen"/>ſumptuouſly any more for ever againſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Mighty God, and Lord of Hoſts him<g ref="char:EOLunhyphen"/>ſelf: Do not begin again to provok<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him. I hope God hath put the ſword up into the ſcabbard; and there it wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſt and be ſtill, if you do not draw it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="25" facs="tcp:36329:15"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould be ſorry, and tremble to hear <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter this fire, of any <hi>Flagrans peccatum,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. e. debauched practiſes to bear date af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the 3d of <hi>March,</hi> 1676, [then that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ire was].</p>
+            <p>Upon your repentance you are purged from your old ſins: God repents; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s he repented, and ſaid he would drown <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he World no more; ſo if <hi>Wem</hi> thus ſin <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o more, then he will burn it no more. And therefore I beſeech you prepare no fuel for a ſecond burning; if you do, who knows the Power of Gods anger? he may ſecond it with the ſecond death. You muſt ſin wickedly no more againſt a God that hath you at Command, to do with you in two Worlds what he will.</p>
+            <p>By the light of this Fire alſo you may ſee to write vanity and folly up<g ref="char:EOLhyphen"/>on all things in this life, and upon the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nordinate loving, caring, and ſeeking after them: that which did full your heads, and your hearts, imploy your hands, and ſix days in a week were too little for Body and Soul, to be extended to the utmoſt for them; but Gods day,
+<pb n="26" facs="tcp:36329:16"/> and all muſt be taken in; the ſnatching flames have caught hold on, and they are yours no more. May not ſome Neighbours take one another by the hand, and bring them to their reſpective Ruines; and ſay, Neighbour, if that was a mans God he loved moſt, then here in this heap of rubbiſh and aſhes lyes my God, to whom I did ſacrifice, riſing early, and lying down late: I ſee by this Fire my God was a dunghil God, and to the dunghil it muſt go. O the folly, the fol<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of a mortal man, thus to buſie an immortal ſoul, which is to ſtay in the body but a little while, and that a purpoſe to get grace, to make it meet for glory, to ſpend time and ſtrength about that which is a heap of vanity; and which is worſe, to purchaſe it with the hazard of everlaſting happineſs! Such a one is to purpoſe an Object of pity, whoſe riches are gone, but the ſinful getting of them remains to be a witneſs againſt him, be<g ref="char:EOLhyphen"/>fore that Judg of quick and dead. For a man to get riches, and loſe them, and after loſe his ſoul for getting them, is deſperate folly and madneſs, and the
+<pb n="27" facs="tcp:36329:16"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orribleſt cheat that the Devil can put <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon man; and therefore for time to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome, I hope you will forſake him, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake the Scripture for your guide, for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeking the things of this world, <hi>Matth.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.33. <hi>John</hi> 6.27. To ſeek them for Gods ſake, not for their own; becauſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e commands, and in the order he ap<g ref="char:EOLhyphen"/>points, giving them ſuch eſtimations and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffections, as he allows; and if you would do ſo my friends, and return in your du<g ref="char:EOLhyphen"/>ty and prime love to God, you would (had you little or much) live far hap<g ref="char:EOLhyphen"/>pier lives than if you ſhould have for the future, much more than ever ye did poſſeſs.</p>
+            <p>I beſeech you in dear compaſſion to your ſouls, take heed of chuſing that way which makes the getting to Heaven ſo difficult, which is blockt up by the love and cares of this World.</p>
+            <p>I beſeech you my dear Friends, joyn your earneſt prayers with mine to God, to give you new hearts, that through his aſſiſting grace, henceforward ye may ſeek the things that are above the fiery Region, things that ye cannot loſe.
+<pb n="28" facs="tcp:36329:17"/> You have lately experienced the ſad di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>appointment of laying up treaſure <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> earth; the Scripture, when you have do<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> all, will prove your beſt counſeller, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> lay up your treaſure in Heaven.</p>
+            <p>You have ſerved a bad Maſter all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> while, <hi>Mammon</hi> hath put you all thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> while to drudg and labour in the Fire and now behold the fire hath devoure<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your labour. I pray you now ſtedfaſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reſolve one by one, to change your Ma<g ref="char:EOLunhyphen"/>ſter, chuſe God for your Maſter. Dot<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not his word tell you, <hi>Him only muſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou ſerve?</hi> This is your beſt Maſter return to him from whom thou haſt ru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away ever ſince the Covenant thou madeſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with him in baptiſm; pray him again to receive thee into his ſervice, and thou ſhalt be ſure of better work; yea, better and ſurer wages alſo. Is not this hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Covenant with all his ſervants, not on<g ref="char:EOLhyphen"/>ly as <hi>Iſa.</hi> 33.16. Thy meat ſhall be given thee, and thy drink ſhall be ſure? But alſo to give thee grace and glory, and to withhold no good thing from thee: Do you not remember what hath been told you, and where, that God will be your
+<pb n="29" facs="tcp:36329:17"/> Father, Chriſt your Saviour, the Holy Ghoſt your Comforter, Angels your Guardians, Saints your Companions, that <hi>Manna</hi> ſhall be your food, and like the Kings daughters, <hi>Pſal.</hi> 45.13. Your cloathing ſhall be of wrought gold, the world ſhall be your ſervant, the Devil your ſlave, death ſhall be your friend, and heaven ſhall be your home? ſerve the King of Kings, and this ſhall be your <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ire. Good ſirs, will you with full pur<g ref="char:EOLhyphen"/>poſe of heart reſolve to ſerve a good God? It ſhall never repent you of his ſervice, when you come to dye. O it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s brave reſolving upon that which a man needs never repent of. I know it <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rks you much, that you have riſen early, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayen down late to get ſomething to<g ref="char:EOLhyphen"/>gether, which with bleeding hearts ye ſaw burning together. O fooliſh, and fooliſh again, have we all been, that our luſts ſhould guide our lives, and order our labours! Now we ſee what's come on't, we were deaf to the word all this while, that cri'd, O ye fools, when will ye be wiſe? We hope through the bleſſing of God, this Fire was good to make us
+<pb n="30" facs="tcp:36329:18"/> wiſe; and the Lord being with us, w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will make proof of it for time to come Now moſt amiable, true, and lovely Re<g ref="char:EOLunhyphen"/>ligion, the everlaſting doors of our ſoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are open to give thee entertainment We will ſet thee up, and thou wilt ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up our houſes, or ſettle us in a houſe which we ſhall never go out of, after we are once in it. Now ſay one by one, let your ſouls ſay, I'le be ſervant to no creature on earth; I tell you I will ſerve the God of Heaven. My Maker ſhall be my Maſter, and then I am ſure I am made for ever.</p>
+            <p>Well, my dearly beloved Friends, whoſe eternal happineſs my ſoul indeed yearns after: you have reſolved, now put your hands to the plow, and what your hearts find to do, do it with all your might; you muſt put your All to it, All is too little, yet the good God will graciouſly accept this little All. But let me tell you before-hand, there be ſome in the world that will give you diſcountenance and diſcouragement, that will think it ſtrange that ye run not with them, as of old, to the ſame exceſs of
+<pb n="31" facs="tcp:36329:18"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iot; that will perſecute you by mock<g ref="char:EOLhyphen"/>ing (as <hi>Iſmael</hi> did the Son by promiſe): What, you mean to grow pure after the Fire, do you? Thou that waſt as honeſt a fellow as lived before, I know not what to make of thee now; I am afraid you will turn Changeling, and grow mad. I doubt you will not find me a falſe Prophet; you will, if you be real, be put to this teſt: you are <hi>permoniti,</hi> but are you <hi>permuniti?</hi> Do you know your poſture and guard, if the ſword of the tongue ſhould make this paſs upon you? Will you ſay, or to the ſame pur<g ref="char:EOLhyphen"/>poſe thus: I did uſe to do ſo my ſelf, time was; and that while, ſure I was do<g ref="char:EOLhyphen"/>ing ſervice under the Devil, whoſe great buſineſs in the World is to hurry ſome to Hell, and hinder others all he can from going to Heaven. But theſe things do not move me now, I thank God that <hi>ego non ſum ego,</hi> here am I, but not the ſame. I am reſolved to ſerve God if I dye for't; I ſhall dye the worſt of deaths if I do not; I am ſure there is none ſo wicked as to except againſt him, who ſaid, <hi>Away from me, for I will keep the Commandments of
+<pb n="32" facs="tcp:36329:19"/> my God;</hi> and why then againſt me, for ſaying with the ſame heart, the ſame words? jeer me for this, and jeer the Scripture, and none but Devils in the ſhape of men dare do ſo. Let men con<g ref="char:EOLhyphen"/>tinue to be godly, till I reproach them for their godlineſs, for time to come.</p>
+            <p>Well then, having this encourage<g ref="char:EOLhyphen"/>ment, I call you all together; and deſire you to make profeſſion what you will do to glorifie God and ſave your Souls. Shall one ſpeak for all, and the reſt ſay, <hi>Amen?</hi> He that ſpeaketh for you, me<g ref="char:EOLhyphen"/>thinks ſays in the ſincerity of his heart, as <hi>Paul,</hi> I was a blaſphemer, I was a Perſecutor, I was injurious, I was this and that, and what not? to demon<g ref="char:EOLhyphen"/>ſtrate the heart of man to be deceitful above all things, and deſperately wick<g ref="char:EOLhyphen"/>ed: but God in mercy did bring this late Fire to enlighten me: what he did upon mine, was but a means; his end was me: He would have me ſee one Fire, that I might never feel another. I thank God for ever, it was a good Fire for me; I find, (as <hi>Sampſon</hi>'s Rid<g ref="char:EOLhyphen"/>dle
+<pb n="33" facs="tcp:36329:19"/> hath it) <hi>Judg.</hi> 14.14, out of the eater comes meat. The Fire, like <hi>Pha<g ref="char:EOLhyphen"/>roah</hi>'s lean kine, did eat all the fat of my ſubſtance; but it made ready the Paſſover for me, and I have eaten the Lamb of God that taketh away the ſins of the World. And now I will tell you what I will do for this God, who while I thought he was undoing me, hath done ſo much for me. I will re<g ref="char:EOLhyphen"/>ceive him into my heart, and walk wor<g ref="char:EOLhyphen"/>thy of him in my life; and if ever God ſend me a new houſe (if ever I have one, it muſt be of Gods ſending; as <hi>Ahaſuerus</hi> did command the Governors, <hi>Neh.</hi> 2.8, to ſupply <hi>Nehemiah,</hi> that he might build; ſo God muſt command his Almoners concerning <hi>Wem,</hi> that it be built alſo) I will dedicate it to the ho<g ref="char:EOLhyphen"/>nour of God, in my calling and rela<g ref="char:EOLhyphen"/>tion: What was <hi>Joſhuah</hi>'s reſolution, ſhall be mine; <hi>As for me and my houſe, we will ſerve the Lord:</hi> My ſerving of God in <hi>his</hi> Houſe, will be but a mock-ſervice, if I do not ſerve him in my own. There will I pray and not be aſhamed; I will rejoyce with ſinging,
+<pb n="34" facs="tcp:36329:20"/> and this ſhall be the burthen of my Song, <hi>For his mercy endureth for ever.</hi> God might have ſaid, Aſhes to Aſhes, Houſe and Houſhould burn together. [The Fire began at eight at Night] If it had kindled in the dead of the Night, we might have been preſently in the chambers of Death. It is a night there<g ref="char:EOLhyphen"/>fore much to be obſerved to the Lord, a Night from which we may date our new life; there was nothing but this cauſed joy in the Morning, after hea<g ref="char:EOLhyphen"/>vineſs enduring all Night, but that we had our lives for a prey, when we ſaw no houſes left; yet what cauſe of a<g ref="char:EOLhyphen"/>doring with thankfulneſs, that we were all alive before the Lord then our ſelves!</p>
+            <p>And doth not this lay an eternal ob<g ref="char:EOLhyphen"/>ligation to ſerve him, who was the preſerver of us, our wives and little ones? After ſuch deliverance as this given to us, ſhall we again provoke him? Can we expect to eſcape another time, if we ſhould ſlight ſo great ſalva<g ref="char:EOLhyphen"/>tion? Make vows and pay them, ſerve God at home, and ſerve him in the Congregation, keep his Sabbath, be a<g ref="char:EOLhyphen"/>fraid
+<pb n="35" facs="tcp:36329:20"/> becauſe of the power, when the Magiſtrate ſhall contend with you, as <hi>Nehem.</hi> 14.17, and ſay, what evil is this that ye do, and profane the Sabbath? I am afraid Sabbath-ſins have been a chief cauſe of conſuming the Timber, with the Stones of thouſands of goodly Houſes in <hi>England</hi> within theſe few years. How many in <hi>Shropſhire?</hi> where many Fires have been kindled and burning up<g ref="char:EOLhyphen"/>on the Lords day; ſo in the great City, and other great places in the Nation. Keep within (on the Lords day) your own, and Gods houſe, to keep out the flying Roll, and the burning Curſe. O that all places round about might have a pattern of Univerſal Reformation, in <hi>Wem,</hi> as well as an inſtance of doleful Deſolation! And therefore how much doth it ſtand our Miniſters upon, to walk circumſpectly, to preach powerfully, to preach, as if they would ſave themſelves, and them that hear them? As they know they are directed by their Superiors to pray; ſo they muſt know it will be ex<g ref="char:EOLhyphen"/>pected one day from the great ſhepherd, that by Life and Doctrine they ſet forth
+<pb n="36" facs="tcp:36329:21"/> Gods true and lively word. Thou that teacheſt another, teacheſt thou not thy ſelf? Are ſuch like to prevail with o<g ref="char:EOLhyphen"/>thers to bear heavy burthens, when they that bind them, will not touch them themſelves? The Prophet <hi>Iſaiah</hi> thought otherwiſe, and therefore would not give the people Precepts without joyning his own examples, <hi>Iſa.</hi> 2.5, <hi>O houſe of Jacob, come ye, and let us walk in the light of the Lord.</hi> Good Miniſters ſay their people ſhall not go to Heaven a<g ref="char:EOLhyphen"/>lone, they will go with them, and be their leaders: that Church had but a name to live, whoſe Angel was dead. If the Miniſter be dead, how ſhould the people be lively?</p>
+            <p>My beloved Friends, God ſent this Fire to awaken us all;<note place="margin">Three Fires in <hi>Wem,</hi> in three quar<g ref="char:EOLhyphen"/>ters of a year.</note> Miniſters and People, watch therefore againſt all ſin, to all duty; you will ſay they are incorrigible offen<g ref="char:EOLhyphen"/>ders, who will commit iniquity to be puniſhed by the Judges, after they are once burnt in the hand; What mercy can you expect from your Judg, who
+<pb n="37" facs="tcp:36329:21"/> have been burnt thrice? God expects ſuperlative ſufferers, ſhould be ever after incomparable reformers, and to have no more to do with the unfruitful works of darkneſs. We read in the Goſpel, the laſt ſhall be firſt. Who knows but by the power and grace of God, ſcoffers of godlineſs, having now known the terrour of the Lord, may be the firſt to encourage and promote it! He that made ſo good a <hi>Paul,</hi> of ſo vile and wicked a <hi>Saul,</hi> can do this: when men have been melted in ſuch a Fire, they may be moulded and faſhioned by him who made all things, veſſels of Honour fit for their Maſters uſe. Could I ſee this, that one hours burning hath done more for con<g ref="char:EOLhyphen"/>viction and Reformation, than twenty years preaching, I would ſay, God ſpake to ſuch out of the Fire indeed. By this Fire God hath laid a deep Foundation, and if you be not wanting to your ſelves, you may build high, and make <hi>Wem</hi> a place of Renown. If you would take my counſel, it ſhould be this; preſently get the ſtart of all places about you, and ſet up the Staple-trade of practical god<g ref="char:EOLhyphen"/>lineſs;
+<pb n="38" facs="tcp:36329:22"/> there is ſuch a myſtery in this Trade, that it would make you all pre<g ref="char:EOLhyphen"/>ſently rich: you would have the bleſſings of the upper and nether ſprings, and your latter end like <hi>Job's,</hi> would be far better than your beginning. <hi>Wem</hi> hath ever wanted a good Trade; I am ſure this courſe will bring one. Scripture rules and examples will direct you in this Practiſe of Piety; be much therefore in reading the ſacred Book; other books may be of great uſe, but this is of infal<g ref="char:EOLhyphen"/>lible verity; let the word of Chriſt therefore dwell richly in you, in all Wiſ<g ref="char:EOLhyphen"/>dom, Teaching and Admoniſhing one another: Love as brethren and com<g ref="char:EOLhyphen"/>panions in Tribulation; let all bitterneſs, envy, and malice, be put away. <hi>Seek not your own things, but every one ano<g ref="char:EOLhyphen"/>thers good: grudg not brethren one againſt another: live in peace, and the God of peace be with you,</hi> Take heed in the laſt place of grudging and murmur<g ref="char:EOLhyphen"/>ing againſt God: God will not be cal'd in queſtion for any of his works. All ſouls are his, and ſo are all houſes to; let him do his pleaſure to one or t'other, who
+<pb n="39" facs="tcp:36329:22"/> ſhall ſay unto him, what doſt thou? You muſt needs ſay he hath puniſhed you leſs than ye do deſerve, and then there is no wrong done; ſtand ſtill and ſee the Pro<g ref="char:EOLhyphen"/>viſion God will make for you: if you will vow to God, that when he ſhall again build your houſes, you will write <hi>Holi<g ref="char:EOLhyphen"/>neſs to the Lord,</hi> over your doors, God will delight over you to do you good. <hi>Wem</hi> ſhall flouriſh; and men did not ſo much marvel at its deſolation, but they ſhall as much admire your reſtauration: But if you fulfill the Proverb, 2 <hi>Pet.</hi> 2.22, <hi>The dog is returned to his vomit, and the ſow to the wallowing in the mire,</hi> I tremble to think what will befal you in the latter end; but I hope better things of you, things that accompany ſalvation.</p>
+            <p>I ſhall forbear (becauſe my Letter hath gteaten'd beyond my firſt intention) to write to them whoſe Houſes and Goods were preſerved from being conſumed by this dreadful Fire; becauſe there is a book Printed in 67, called <hi>Counſel to the Afflicted,</hi> will give them better ad<g ref="char:EOLhyphen"/>vice than I can, which begins at <hi>pag.</hi> 293,
+<pb n="40" facs="tcp:36329:23"/> which book ſome of their Neighbours can, and will willingly accommodate them with the reading of, and any others may have it, I ſuppoſe, at Mr. <hi>Parkhurſts</hi> at the Bible and Three Crowns in <hi>Cheap<g ref="char:EOLhyphen"/>ſide, London.</hi>
+            </p>
+            <p>And now my Friends, I commend you all to the grace of God, whom I beſeech to comfort you under your preſent grievous Afflictions; which I doubt not of, if you will but hear his voice, which crys aloud unto you, <hi>Micah</hi> 6.9, <hi>Hear the rod, and who hath appointed it.</hi> And put in practiſe this Counſel given in much love to your ſouls, from the unworthieſt of Chriſts Servants, ſometime yours,</p>
+            <closer>
+               <signed>And. Parſons.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Pag. 4. Line 4. for <hi>March</hi> read <hi>May.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="41" facs="tcp:36329:23"/>
+            <p>POſſibly this Letter may come into more hands beſides theirs, to whom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have particularly written, who have al<g ref="char:EOLhyphen"/>ſo ſuffered in like manner with them. Where ere it comes, I ſhall follow it with my Prayers, that it may contribute ſomething to revive the ſenſe in all places (which are not a few in <hi>England</hi> theſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate years) people had, when the heavy hand of God by Fire was upon them. Great judgments are to be kept in remem<g ref="char:EOLhyphen"/>brance, and to be improved for promo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing repentance, and the fear of God all our days; yea, the memory of them ſhould be conveyed to poſterity after us; as <hi>Joel</hi> 1.3, <hi>Tell your children, and let your children tell their children.</hi> Men think unworthily of Gods Judgments, if they ſuppoſe they are only to be regarded a few days.</p>
+            <p>Men and Brethren, who have ſuffered by ſo great and unuſual Fires as have been in our Land: What were your thoughts when your eyes were ſadly beholding thoſe terrible flames? Were they not ſuch
+<pb n="42" facs="tcp:36329:24"/> as theſe? We have anger'd the great an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> terrible God, whoſe fury hath broke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out in theſe terrible flames. Wo unto u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we muſt repent, or elſe our ſouls and bo<g ref="char:EOLunhyphen"/>dies, as well as our houſes and goods, wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be alſo as dry ſtubble to this Conſu<g ref="char:EOLunhyphen"/>ming Fire. Lord what wilt thou hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us to do? We will ſin no more, but offe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our bodies and ſouls a living and accepta<g ref="char:EOLunhyphen"/>ble ſacrifice to God for ever.</p>
+            <p>It cannot be hurtful, it may be profita<g ref="char:EOLunhyphen"/>ble, if I (the unfitteſt of thoſe that mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mention of the Lord), be your remem<g ref="char:EOLunhyphen"/>brancer of theſe promiſes made to God i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the day of your diſtreſs; the word is gon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of your mouth, and recorded in Hea<g ref="char:EOLhyphen"/>ven, and ye cannot go back.</p>
+            <p>It is therefore your wiſdom, and muſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be your chiefeſt care, that theſe bonds b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taken up; and that payment be made o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> theſe vows, leſt execution be taken out o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Court of Heaven, and a worſe thing come unto you, than the dreadful Fir<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> could procure; there can be no ſe<g ref="char:EOLunhyphen"/>curity againſt greateſt fears and dan<g ref="char:EOLunhyphen"/>gers, till Gods anger be turned away ſo long as his hand is ſtretched ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:36329:24"/> ſtill, paſt miſery may be but the begin<g ref="char:EOLhyphen"/>ning of future ſorrows.</p>
+            <p>As a Miniſter of the Catholick Church, I have Authority from Chriſt to ſpeak, if I could, to the whole Nation, or where<g ref="char:EOLhyphen"/>ever he hath a Church in the World, be<g ref="char:EOLhyphen"/>ing call'd thereto; but if I had opportuni<g ref="char:EOLhyphen"/>ty, and power anſwerable to deſire, I would chiefly, if not only, confine my ſelf to put thoſe places and people where the mercileſs Fire hath been ſo raging for a few years paſt, in remembrance, whether they have anſwered the call of God, when he cry'd then ſo loud. O <hi>Drayton, New-port, Marlborough, London, Northhampton, Southwark,</hi> with many other places of note in <hi>England,</hi> which have ſuffered the vengeance of fearful Fire; you were once in aſhes, have you repented in duſt and aſhes?</p>
+            <p>I make no queſtion, but your reſpective Miniſters cryed aloud, calling you to re<g ref="char:EOLhyphen"/>pentance (the main Errand which my Letter goes on) as ſeaſonably, but much more powerfully than I have done to the place and people I once belonged to.</p>
+            <p>But Men and Brethren, what anſwer
+<pb n="44" facs="tcp:36329:25"/> and return? Methinks God hath pickt out theſe and other burnt places (the light of whoſe flames was ſeen all the Countrey over) to be the pureſt and viſibleſt pat<g ref="char:EOLhyphen"/>terns of Piety towards God, and ſobriety towards men, of all places in this King<g ref="char:EOLhyphen"/>dom; and if they ſhould not prove ſuch, ſhould I ſpeak too hardly, if I did adven<g ref="char:EOLhyphen"/>ture to ſay, it ſhall be more tolerable in the day of Judgment for any other place in the Kingdom, than for theſe?</p>
+            <p>What can be ſaid for theſe places, when Chriſt ſpeaketh, ſaying, <hi>What could I have done more?</hi>
+            </p>
+            <p>You would not be reaſoned, which my faithful Miniſters did wiſely and earneſtly attempt; no, nor be burnt out of your ſins, which the power of my anger, and my out-ſtretched arm attempted alſo.</p>
+            <p>Beloved Chriſtians, you have been pul'd out of the Fire, but were you puri<g ref="char:EOLhyphen"/>fi'd in the Fire? Have you teſtifi'd the truth of your repentance, for thoſe ſins that were the chief fuel for the fire which the wrath of the Lord did kindle? Have you teſtifi'd indeed the ſincerity of this repentance, as the believing <hi>Corinthians</hi>
+               <pb n="45" facs="tcp:36329:25"/> did, 2 <hi>Cor.</hi> 7.11, as all the Saints recorded in Scripture, did by reformation of life?</p>
+            <p>This Nation is ſick, and ready to dye for want of repentance and reformation. God hearkens, and hears; men look and enquire from one end of the Kingdom to another; who ſhall begin, be the firſt, and beſt example of this real, univer<g ref="char:EOLhyphen"/>ſal, and effectual reformation; that <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> though it droops, may not dye.</p>
+            <p>Sure theſe great places, who all had this loud call from Heaven, God calling out of the Fire unto them, are to be firſt. I am ſure God expects and deſigns ſuch ſo to be. <hi>Joel</hi> 2.3, 12. The Fire devoured before, and the voice of the Lord comes after, ſaying, <hi>Turn unto me with faſting, weeping, and mourning.</hi>
+            </p>
+            <p>So when the Citys of <hi>Judah</hi> were burnt with Fire, the deſign of God was, <hi>that the filth of the daughter of Zion ſhould be caſt away, Iſa.</hi> 1.7. God hath the ſame ex<g ref="char:EOLhyphen"/>pectations from you, O people, whom the Fire of the Lord hath deſtroyed, and laid waſte. Hath God ever ſince waited for this? when ſhall it once be? O give not God occaſion to ſpeak of you, as he
+<pb n="46" facs="tcp:36329:26"/> did of <hi>Judah, Amos</hi> 4.10, <hi>Ye were as a brand pluckt out of the burning, yet have ye not returned unto me.</hi>
+            </p>
+            <p>Though <hi>Judah</hi> thus offended by being incorrigible, O let not cauſe be given for God to ſet this brand upon you! He had you in the Fire to melt you under his hand, to work you up to his good plea<g ref="char:EOLhyphen"/>ſure; but you failed his expectation as much as they did, <hi>Zeph.</hi> 3.6, 7.</p>
+            <p>But I hope better things from theſe places who have paſſed through the Fire. I hope then they pray'd effectually, like <hi>David, O God create in us new hearts, that we might lead new lives, and walk in a perfect way in our new houſes, that we might ſin no more, that ſo we might be burnt no more. Which ſhall be the earneſt prayer alſo of their ſouls well-wiſher,</hi>
+            </p>
+            <closer>
+               <signed>A. P.</signed> 
+               <dateline>
+                  <date>April the 5th, 1677.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36329:26"/>
+         </div>
+      </body>
+   </text>
+</TEI>
